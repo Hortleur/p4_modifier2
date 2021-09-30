@@ -1040,3 +1040,16 @@ h4 {
         text-align: center;
     }
 }
+
+/*mes ajouts */
+.page-container{
+    margin: 0 auto;
+}
+.commentaire{
+    font-style: italic;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+.header{
+    padding: 0 50px;
+}
