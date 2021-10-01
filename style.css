@@ -254,7 +254,6 @@ a:hover {
 
 .navbar .nav {
     padding-top: 2px;
-    margin-right: -16px;
     float: right;
     z-index: 1;
 }
@@ -875,13 +874,7 @@ h4 {
     #hero-bloc .navbar .nav a {
         color: rgba(255, 255, 255, .6);
     }
-    .hero {
-        padding: 50px 0;
-    }
-    .hero-nav {
-        left: -1px;
-        right: -1px;
-    }
+
     .navbar-collapse {
         padding: 0;
         overflow-x: hidden;
@@ -898,7 +891,6 @@ h4 {
     }
     .nav-invert .navbar-toggle {
         float: left;
-        margin-left: 10px;
     }
     .bloc {
         padding-left: 0;
@@ -982,6 +974,7 @@ h4 {
 }
 .client{
     font-size: 1.4em;
+    color: #000000 !important;
 }
 .partner{
     text-decoration: none;
@@ -998,7 +991,4 @@ ul{
 .partenaires{
     display: flex;
     justify-content: center;
-}
-.logo_nav{
-    width: 100% !important;
 }
