@@ -978,16 +978,18 @@ h4 {
 .partner{
     text-decoration: none;
     font-size: 1.3em !important;
+    margin-bottom: 40px !important;
 }
 .list_partner{
     list-style: none;
-    display: inline-block;
+    margin-right: 30px;
 }
 ul{
     display: flex;
-    flex-flow: column;
+    flex-flow: row;
 }
 .partenaires{
     display: flex;
-    justify-content: center;
+    flex-flow: column;
+    align-items: center;
 }
