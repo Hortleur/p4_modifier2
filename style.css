@@ -140,12 +140,12 @@ a:hover {
 .d-bloc .panel .btn-wire,
 .d-bloc .panel .btn-wire:hover {
     color: rgba(0, 0, 0, .7);
-    border-color: rgba(0, 0, 0, .3);
+    border-color: rgba(0, 0, 0);
 }
 
 .d-bloc .panel,
 .l-bloc {
-    color: rgba(0, 0, 0, .5);
+    color: rgba(0, 0, 0);
 }
 
 .d-bloc .panel button:hover,
@@ -974,7 +974,6 @@ h4 {
 }
 .client{
     font-size: 1.4em;
-    color: #000000 !important;
 }
 .partner{
     text-decoration: none;
