@@ -962,7 +962,7 @@ h4 {
 
 /*mes ajouts */
 .page-container{
-    margin: 0 auto;
+    width: 100%;
 }
 .commentaire{
     font-style: italic;
